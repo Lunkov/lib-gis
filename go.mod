@@ -1,4 +1,4 @@
-module github.com/Lunkov/lib-gis.git
+module github.com/Lunkov/lib-gis
 
 go 1.13
 
